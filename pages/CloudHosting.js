@@ -13,6 +13,7 @@ class CloudHosting extends Component {
             <>
 
                 <Head>
+                    <title>Cloud Hosting | 4X More Speed | Limited Time Offer - Ecomin IT Solution</title>
                     <meta name="title" content="Cloud Hosting | 4X More Speed | Limited Time Offer - Ecomin IT Solution" />
                     <meta name="description" content="We used a data-driven review approach to select the top cloud hosting providers for personal, business, and enterprise requirements in 2021." />
                 </Head>

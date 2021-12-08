@@ -11,6 +11,7 @@ class BigCommerce extends Component {
         return (
             <>
                 <Head>
+                    <title>Advanced Bigcommerce development services - EcomIN</title>
                     <meta name="title" content="Advanced Bigcommerce development services - EcomIN" />
                     <meta name="description" content="Take your store growth to the next level with our advanced BigCommerce Development Service. EcomIN is a certified BigCommerce development company. Our Certified developers customize e-store and multi-store platforms through redevelopment, API integrations, and complete customization." />
                 </Head>

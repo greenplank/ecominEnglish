@@ -80,7 +80,7 @@ class CaseStudies extends Component {
                                                     <div>
 
                                                         <div>
-                                                            <a href="/portfolio">
+                                                            <a href="https://www.greenplank.se/">
                                                                 <img src="/images/Untitled-22.jpg" alt="img" />
                                                             </a>
                                                         </div>
@@ -91,7 +91,7 @@ class CaseStudies extends Component {
                                                     <div>
 
                                                         <div>
-                                                            <a href="/portfolio">
+                                                            <a href="http://estorexl.se/">
                                                                 <img src="/images/estorexl.jpg" alt="img" />
                                                             </a>
                                                         </div>
@@ -102,29 +102,20 @@ class CaseStudies extends Component {
                                                     <div>
 
                                                         <div>
-                                                            <a href="/portfolio">
+                                                            <a href="http://ebygghandel.se/">
                                                                 <img src="/images/ebygghandel.jpg" alt="img" />
                                                             </a>
                                                         </div>
                                                     </div>
                                                 </div>
 
-                                                <div className="col-lg-4 col-sm-6 mt-10">
-                                                    <div>
 
-                                                        <div>
-                                                            <a href="/portfolio">
-                                                                <img src="/images/handsbag.jpg" alt="img" />
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
 
                                                 <div className="col-lg-4 col-sm-6 mt-10">
                                                     <div>
 
                                                         <div>
-                                                            <a href="/portfolio">
+                                                            <a href="http://wpcholz.de/">
                                                                 <img src="/images/wpc.jpg" alt="img" />
                                                             </a>
                                                         </div>
@@ -135,9 +126,19 @@ class CaseStudies extends Component {
                                                     <div>
 
                                                         <div>
-                                                            <a href="/portfolio">
+                                                            <a href="http://byggochfix.se/">
                                                                 <img src="/images/byygochfix.jpg" alt="img" />
                                                             </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div className="col-lg-4 col-sm-6 mt-10">
+                                                    <div>
+
+                                                        <div>
+                                                            {/* <a href="/portfolio">
+                                                                <img src="/images/handsbag.jpg" alt="img" />
+                                                            </a> */}
                                                         </div>
                                                     </div>
                                                 </div>
@@ -244,7 +245,7 @@ class CaseStudies extends Component {
 
                                         <div id="tab4" className="tabs_item">
                                             <div className="row justify-content-center">
-                                            <div className="col-lg-6 col-sm-6 mt-10">
+                                                <div className="col-lg-6 col-sm-6 mt-10">
                                                     <div className="single-case-studies ">
 
                                                         <div>

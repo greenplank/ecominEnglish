@@ -23,7 +23,7 @@ class CreativeAgency extends Component {
                     <meta name="title" content="Ecomin – Ecomerce & IT Services | Consulting | Business Solutions" />
                     <meta name="description" content="Ecomin is the best Ecommerce Solution Provider that offers the best eCommerce Development Services and Solutions to small businesses & companies." />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-211768101-1"></script>
-
+                    <title>Ecomin – Ecomerce & IT Services | Consulting | Business Solutions</title>
                 </Head>
 
                 <NavbarTwo />

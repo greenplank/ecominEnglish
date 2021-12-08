@@ -9,11 +9,17 @@ import CtaAreaThree from '../components/Common/CtaAreaThree';
 import EcomVsFrelancer from '../components/Services/EcomVsFrelancer';
 import About from '../components/About/About';
 import Footer from '../components/Layouts/Footer';
+import Head from "next/head";
 
 class Aabout extends Component {
     render() {
         return (
             <>
+
+                {/* <Head>
+                    <title>Ecomin – Ecomerce & IT Services | Consulting | Business Solutions</title>
+                </Head> */}
+
                 <NavbarOne />
 
                 <PageBanner
@@ -23,7 +29,7 @@ class Aabout extends Component {
 
 
                 <AboutContent />
-                
+
                 <EcomVsFrelancer />
 
                 <CtaAreaThree />
