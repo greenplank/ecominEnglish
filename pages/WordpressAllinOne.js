@@ -5,6 +5,7 @@ import WordpressDetailsContent from '../components/Services/WordpressDetailsCont
 import WordpressPackages from '../components/Services/WordpressPackages';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
+import Head from 'next/head';
 
 
 class WordpressAllinOne extends Component {
@@ -15,6 +16,9 @@ class WordpressAllinOne extends Component {
                     <meta name="title" content="Website Design & Development Services | Ecomin IT Solution" />
                     <meta name="description" content="With quality and professional web development services, you can take your business online and generate more sales and leads." />
                 </Head> */}
+              <Head>
+                  <title>hello to world</title>
+              </Head>
 
                 <NavbarOne />
 
