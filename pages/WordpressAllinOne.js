@@ -12,12 +12,14 @@ class WordpressAllinOne extends Component {
     render() {
         return (
             <>
+
                 {/* <Head>
                     <meta name="title" content="Website Design & Development Services | Ecomin IT Solution" />
                     <meta name="description" content="With quality and professional web development services, you can take your business online and generate more sales and leads." />
                 </Head> */}
+
               <Head>
-                  <title>hello to world</title>
+                  <title>Wordpress Development</title>
               </Head>
 
                 <NavbarOne />

@@ -11,6 +11,7 @@ class WooCommerce extends Component {
             <>
 
                 <Head>
+                    <title>Custom Woocommerce development services - EcomIN</title>
                     <meta name="title" content="Custom Woocommerce development services - EcomIN" />
                     <meta name="description" content="EcomIN is a custom WooCommerce website development agency. We design and build user-friendly online stores with many powerful features." />
                 </Head>

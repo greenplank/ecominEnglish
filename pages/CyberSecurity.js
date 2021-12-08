@@ -11,6 +11,7 @@ class CyberSecurity extends Component {
             <>
 
                 <Head>
+                    <title>Cyber Security Services | Ecomin IT Solution</title>
                     <meta name="title" content="Cyber Security Services | Ecomin IT Solution" />
                     <meta name="description" content="Ecomin IT Solution cybersecurity services provide a new level of cyber-immunity for your organisation by combining intelligence and knowledge." />
                 </Head>

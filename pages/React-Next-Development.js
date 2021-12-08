@@ -12,6 +12,7 @@ class ReactNext extends Component {
         return (
             <>
                 <Head>
+                    <title>Services Company | Hire Best React & Next.js Developers - Ecomin IT Solution</title>
                     <meta name="title" content="Services Company | Hire Best React & Next.js Developers - Ecomin IT Solution" />
                     <meta name="description" content="React.js allows you to create visually appealing and quick user interfaces for online apps. You may take advantage of React.js's fast performance, outstanding interface design, and adaptability by using it." />
                 </Head>

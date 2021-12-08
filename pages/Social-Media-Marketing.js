@@ -13,6 +13,7 @@ class SocialMediaMarketing extends Component {
         return (
             <>
                 <Head>
+                    <title>Social Media Marketing Services for 2021 - Ecomin</title>
                     <meta name="title" content="Social Media Marketing Services for 2021 - Ecomin" />
                     <meta name="description" content="Social Media Campaigns: Our Social Media Marketing Services We provide ad campaigns that attract your target demographic and bring you more business." />
                 </Head>

@@ -12,6 +12,7 @@ class PaidMarketing extends Component {
             <>
 
                 <Head>
+                    <title>PPC Management Services | PPC Services Drive Sales</title>
                     <meta name="title" content="PPC Management Services | PPC Services Drive Sales" />
                     <meta name="description" content="PPC (pay-per-click) is a model for marketing on internet in which advertisers pay a fee when one of their ads is clicked by user/visitor." />
                 </Head>

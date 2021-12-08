@@ -5,26 +5,32 @@ import FaqContent from '../components/Faq/FaqContent';
 import FaqForm from '../components/Faq/FaqForm';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
+import Head from "next/head";
 
 class Faqs extends Component {
     render() {
         return (
             <>
+
+                <Head>
+                    <title>FAQ</title>
+                </Head>
+
                 <NavbarOne />
 
-                <PageBanner 
-                    pageTitle="Frequently Asked Questions" 
+                <PageBanner
+                    pageTitle="Frequently Asked Questions"
                     BGImage="bg-one"
-                />  
+                />
 
                 <FaqContent />
 
                 {/* <div className="pb-100">
                     <FaqForm />
                 </div> */}
-                
+
                 <CtaAreaTwo />
-                
+
                 <Footer />
             </>
         );

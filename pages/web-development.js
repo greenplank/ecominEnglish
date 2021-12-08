@@ -12,6 +12,7 @@ class WebDevelopment extends Component {
         return (
             <>
                 <Head>
+                    <title>Website Design & Development Services | Ecomin IT Solution</title>
                     <meta name="title" content="Website Design & Development Services | Ecomin IT Solution" />
                     <meta name="description" content="With quality and professional web development services, you can take your business online and generate more sales and leads." />
                 </Head>

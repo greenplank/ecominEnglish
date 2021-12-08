@@ -11,6 +11,7 @@ class SiteAudit extends Component {
         return (
             <>
                 <Head>
+                    <title>Website Audit Services - SEO Website Audit Agency | Ecomin</title>
                     <meta name="title" content="Website Audit Services - SEO Website Audit Agency | Ecomin" />
                     <meta name="description" content="1-on-1 sessions with our SEO professionals; a complete SEO audit for on-site and off-site SEO; A completed report that includes all findings and recommendations." />
                 </Head>

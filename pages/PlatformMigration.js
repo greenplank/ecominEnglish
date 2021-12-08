@@ -11,6 +11,7 @@ class PlatformMigration extends Component {
         return (
             <>
                 <Head>
+                    <title>Platform Migration Services | Ecomin IT Solution</title>
                     <meta name="title" content="Platform Migration Services | Ecomin IT Solution" />
                     <meta name="description" content="Ecomin IT Solution makes it simple and flexible to migrate from outmoded technological tools, as well as offering post-migration training and resources." />
                 </Head>

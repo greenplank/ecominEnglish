@@ -12,6 +12,7 @@ class MagentoDevelopment extends Component {
         return (
             <>
               <Head>
+                  <title>Magento Development Serivces - EcomIN</title>
                     <meta name="title" content="Magento Development Serivces - EcomIN" />
                     <meta name="description" content="EcomIn provides a full suite of Magento development services. We have a certified team of Magento developers. Experts in designing customised websites, E-commerece stores with full functionality, programming, strategy, migrations." />
                 </Head>
